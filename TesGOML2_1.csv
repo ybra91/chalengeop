@@ -1,0 +1,2 @@
+Status_Envio,Tipo_Logistica,Origen_Envio,Deposito,Fecha_Entrega,Demora_hhmmss
+delivered,self_service,,Deposito Vendedor,2021-03-16T00:00:00.000-03:00,"('horas: 744', ' minutos: 44640', ' segundo: 2678400')"
